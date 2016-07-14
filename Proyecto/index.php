@@ -6,13 +6,13 @@
 </head>
 
 <body>
-<table width="875" height="648" border="1" align="center">
+<table width="1109" height="673" border="1" align="center">
   <tr>
-    <td height="209" colspan="2"><img src="Imagenes/come cocos cenando.jpg" width="865" height="269" /></td>
+    <td height="232" colspan="2"><img src="Imagenes/carros de lujo (4).jpg" width="264" height="228" /><img src="Imagenes/fotos-de-coches-deportivos-de-lujo-tuneados1.jpg" width="264" height="226" /><img src="Imagenes/97811_coches-deportivos-3.jpg" width="266" height="227" /><img src="Imagenes/fotos-carros-deportivos-2.jpg" width="281" height="227" /></td>
   </tr>
   <tr>
-    <td width="183" height="187">&nbsp;</td>
-    <td width="676"><form id="form2" name="form2" method="post" action="">
+    <td width="179" height="187">&nbsp;</td>
+    <td width="914"><form id="form2" name="form2" method="post" action="negocio.php">
       <label>Escribe Tu Nombre:
         <input name="Nombre" type="text" id="Nombre" />
         </label>
@@ -30,22 +30,17 @@
         <br />
         </label>
         <label for="Submit"></label>
-        <input type="submit" name="Enviar" value="Enviar" id="Enviar" />
+        <label for="Submit"></label>
+        <input type="submit" name="Submit" value="Enviar" id="Submit" />
         <label><br />
         </label>
         <label></label>
       </p>
-    </form>
-      </td>
+    </form>      </td>
   </tr>
   <tr>
     <td height="242" colspan="2">&nbsp;</td>
   </tr>
 </table>
-<form id="form1" name="form1" method="post" action="negocio.php">
-  <label>
-  <input type="text" name="textfield" />
-  </label>
-</form>
 </body>
 </html>
