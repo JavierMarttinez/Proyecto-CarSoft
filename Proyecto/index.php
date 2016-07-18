@@ -3,43 +3,93 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Documento sin t&iacute;tulo</title>
+<style type="text/css">
+<!--
+.Estilo1 {font-size: 18px}
+-->
+</style>
 </head>
 
 <body>
-<table width="1109" height="673" border="1" align="center">
+<table width="1130" height="881" border="0" align="center" bgcolor="#CCCCCC">
   <tr>
-    <td height="232" colspan="2"><img src="Imagenes/carros de lujo (4).jpg" width="264" height="228" /><img src="Imagenes/fotos-de-coches-deportivos-de-lujo-tuneados1.jpg" width="264" height="226" /><img src="Imagenes/97811_coches-deportivos-3.jpg" width="266" height="227" /><img src="Imagenes/fotos-carros-deportivos-2.jpg" width="281" height="227" /></td>
+    <td height="230" colspan="2"><img src="Imagenes/9874651.png" width="305" height="217" /><img src="Imagenes/carros de lujo (4).jpg" width="264" height="228" /><img src="Imagenes/fotos-de-coches-deportivos-de-lujo-tuneados1.jpg" width="264" height="226" /><img src="Imagenes/97811_coches-deportivos-3.jpg" width="266" height="227" /></td>
   </tr>
   <tr>
-    <td width="179" height="187">&nbsp;</td>
-    <td width="914"><form id="form2" name="form2" method="post" action="negocio.php">
-      <label>Escribe Tu Nombre:
-        <input name="Nombre" type="text" id="Nombre" />
-        </label>
+    <td width="742" height="24" bgcolor="#000000"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+      <param name="BGCOLOR" value="" />
+      <param name="movie" value="button3.swf" />
+      <param name="quality" value="high" />
+      <embed src="button3.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+    </object>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+        <param name="movie" value="button4.swf" />
+        <param name="quality" value="high" />
+        <embed src="button4.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+      </object>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+        <param name="movie" value="button5.swf" />
+        <param name="quality" value="high" />
+        <embed src="button5.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+      </object>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+        <param name="movie" value="button6.swf" />
+        <param name="quality" value="high" />
+        <embed src="button6.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+      </object>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+        <param name="BGCOLOR" value="" />
+        <param name="movie" value="button7.swf" />
+        <param name="quality" value="high" />
+        <embed src="button7.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+      </object>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+        <param name="movie" value="button8.swf" />
+        <param name="quality" value="high" />
+        <embed src="button8.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+      </object>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="22">
+        <param name="BGCOLOR" value="" />
+        <param name="movie" value="button9.swf" />
+        <param name="quality" value="high" />
+        <embed src="button9.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" ></embed>
+      </object></td>
+    <td width="378" rowspan="2" bgcolor="#CCCCCC"><form id="form2" name="form2" method="post" action="negocio.php">
+      <label></label>
+      <p align="center" class="Estilo1">Ingresar</p>
+      <p align="center" class="Estilo1">&nbsp;</p>
       <p>
-        <label>Escribe Tu Documento
-        <input name="Docuemento" type="text" id="Docuemento" />
-        <br />
-        T.D
-        <select name="C.C">
-          <option>C.C</option>
-          <option>T.I</option>
-          <option>C.E</option>
-        </select>
+        <label>
+        <div align="center">Escribe Tu Nombre De Usuario:
+          <input name="Nombre" type="text" id="Nombre" />
+        </div>
+        </label>
+      </p>
+      <p align="center">
+        <label>Escribe Tu Contrase&ntilde;a
+          <input name="Docuemento" type="password" id="Docuemento" />
         <br />
         <br />
         </label>
         <label for="Submit"></label>
         <label for="Submit"></label>
-        <input type="submit" name="Submit" value="Enviar" id="Submit" />
-        <label><br />
+        <input type="submit" name="Submit" value="Entrar" id="Submit" />
+        <label></label>
+      </p>
+      <p>
+        <label>
+        <div align="center"><a href="Demalas.php">¿Olvidaste Tu Contraseña?</a><br />
+        </div>
         </label>
         <label></label>
       </p>
     </form>      </td>
   </tr>
   <tr>
-    <td height="242" colspan="2">&nbsp;</td>
+    <td height="271" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="230" colspan="2"><label></label><p><img src="Imagenes/94656.png" width="1161" height="331" /></p></td>
   </tr>
 </table>
 </body>
